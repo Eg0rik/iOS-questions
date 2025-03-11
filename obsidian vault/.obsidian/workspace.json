@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "6f2abc25cd0c3e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91abcfd390ca3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8be6afff98bcdebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Basics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df3962adc9b5100e",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a7904703e94c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d54c84177ec8ba17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab445e0ab2ae5e83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2085a711ddd548a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "777a0b1fccc10cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aeec0d27885aafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "282deed5181f0dcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics/Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics"
+            }
+          },
+          {
+            "id": "c833296f95c389aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basics/Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basics"
+            }
+          },
+          {
+            "id": "130337a16e65f243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9be789f7e7bddd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basics/Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8be6afff98bcdebd",
+  "lastOpenFiles": [
+    "questions.md",
+    "Basics/Pasted image 20240620163224.png",
+    "attachment folder",
+    "Basics/@discardableResult.md",
+    "Basics/Difference between some and any.md",
+    "Basics/Pasted image 20240906102951.png",
+    "Basics/Pasted image 20240906103846.png",
+    "Basics/Basics.md",
+    "Basics/What is associated type.md",
+    "Basics/Any, any, some, AnyObject.md",
+    "Basics/any.md",
+    "Basics/Отличия class свойств от static свойств.md",
+    "Basics/Pasted image 20240620163456.png",
+    "Basics/Pasted image 20240620163430.png",
+    "Basics/Pasted image 20240620163313.png",
+    "Basics/Чем полезны extensions и какие возможности у них есть?.md",
+    "Basics/виды init (4шт).md",
+    "Basics/some.md",
+    "Basics/Pasted image 20240906103251.png",
+    "Basics/Pasted image 20240906103201.png",
+    "Basics/Pasted image 20240906103652.png",
+    "Basics/Pasted image 20240906102905.png",
+    "Basics/Difference between Sequence and collection protocol.md",
+    "Basics/open?vault=Obsidian Vault&file=Proga:.inetloc",
+    "Basics/какие есть ссылочные типы и типы значения.md",
+    "Basics/Что такое перегрузка функций?.md",
+    "Basics/Как под капотом устроены опционалы?.md",
+    "Basics/Как Any реализован под капотом?.md",
+    "Basics/Зачем нужно ключевое слово inout?.md",
+    "Basics/Зачем нужен defer?.md",
+    "Basics/Где можно использовать ключевое слово where? (4шт).md",
+    "Basics/questions.md",
+    "Basics/What is the difference between Open and Public.md",
+    "Basics",
+    "Welcome.md"
+  ]
+}
